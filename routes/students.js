@@ -1,68 +1,68 @@
 var express = require('express');
 var router = express.Router();
 
-const student_summary = {
-    "aaronbush100": {
+const student_summary = [
+    {
         "name": "Aaron Bush",
         "Username": "aaronbush100",
         "NumRepos": 20,
         "NumFollowers": 2
     },
-    "avohs24": {
+    {
         "name": "Alex Vohs",
         "Username": "avohs24",
         "NumRepos": 20,
         "NumFollowers": 2
     },
-    "aavor": {
+    {
         "name": "Alfred Avor",
         "Username": "aaronbush100",
         "NumRepos": 20,
         "NumFollowers": 2
     },
-    "wongathon": {
+    {
         "name": "Andrew Wong",
         "Username": "wongathon",
         "NumRepos": 20,
         "NumFollowers": 2
     },
-    "asconwe": {
+    {
         "name": "August Conwell",
         "Username": "asconwe",
         "NumRepos": 20,
         "NumFollowers": 2
     },
-    "akingbe1": {
+    {
         "name": "Benga Akingbe",
         "Username": "akingbe1",
         "NumRepos": 20,
         "NumFollowers": 2
     },
-    "minicooperj": {
+    {
         "name": "Cary Cooper",
         "Username": "minicooperj",
         "NumRepos": 20,
         "NumFollowers": 2
     },
-    "CStuckey": {
+    {
         "name": "Chris Stuckey",
         "Username": "CStuckey",
         "NumRepos": 20,
         "NumFollowers": 2
     },
-    "crisayala16": {
+    {
         "name": "Cris Ayala Paz",
         "Username": "crisayala16",
         "NumRepos": 23,
         "NumFollowers": 2
     },
-    "dasseya1": {
+    {
         "name": "Damien Asseya",
         "Username": "dasseya1",
         "NumRepos": 12,
         "NumFollowers": 2
     }
-};
+];
 
 const students_detail =
     {
