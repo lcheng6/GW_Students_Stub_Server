@@ -6,61 +6,71 @@ const student_summary = [
         "name": "Aaron Bush",
         "Username": "aaronbush100",
         "NumRepos": 20,
-        "NumFollowers": 2
+        "NumFollowers": 2,
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/3408191?v=3&s=300"
     },
     {
         "name": "Alex Vohs",
         "Username": "avohs24",
         "NumRepos": 20,
-        "NumFollowers": 2
+        "NumFollowers": 2,
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/3408191?v=3&s=300"
     },
     {
         "name": "Alfred Avor",
         "Username": "aaronbush100",
         "NumRepos": 20,
-        "NumFollowers": 2
+        "NumFollowers": 2,
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/3408191?v=3&s=300"
     },
     {
         "name": "Andrew Wong",
         "Username": "wongathon",
         "NumRepos": 20,
-        "NumFollowers": 2
+        "NumFollowers": 2,
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/3408191?v=3&s=300"
     },
     {
         "name": "August Conwell",
         "Username": "asconwe",
         "NumRepos": 20,
-        "NumFollowers": 2
+        "NumFollowers": 2,
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/3408191?v=3&s=300"
     },
     {
         "name": "Benga Akingbe",
         "Username": "akingbe1",
         "NumRepos": 20,
-        "NumFollowers": 2
+        "NumFollowers": 2,
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/3408191?v=3&s=300"
     },
     {
         "name": "Cary Cooper",
         "Username": "minicooperj",
         "NumRepos": 20,
-        "NumFollowers": 2
+        "NumFollowers": 2,
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/3408191?v=3&s=300"
     },
     {
         "name": "Chris Stuckey",
         "Username": "CStuckey",
         "NumRepos": 20,
-        "NumFollowers": 2
+        "NumFollowers": 2,
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/3408191?v=3&s=300"
     },
     {
         "name": "Cris Ayala Paz",
         "Username": "crisayala16",
         "NumRepos": 23,
-        "NumFollowers": 2
+        "NumFollowers": 2,
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/3408191?v=3&s=300"
     },
     {
         "name": "Damien Asseya",
         "Username": "dasseya1",
         "NumRepos": 12,
-        "NumFollowers": 2
+        "NumFollowers": 2,
+        "avatarUrl": "https://avatars3.githubusercontent.com/u/3408191?v=3&s=300"
     }
 ];
 
